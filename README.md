@@ -1,4 +1,4 @@
-customer-chum-analysis-sql-python
+customer-churn-analysis-sql-python
 Customer Churn Analysis using SQL and Python
 
 Overview
